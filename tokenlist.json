@@ -1,1 +1,19 @@
-
+{
+  "name": "BOPPI Token List",
+  "timestamp": "2025-05-13T09:00:00+09:00",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tokens": [
+    {
+      "chainId": 56,
+      "address": "0x28abaFD8dA557F69Ad8830D59f29278846074910",
+      "name": "BOPPI",
+      "symbol": "BPI",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ghska519/boppi-token-list/main/logos/boppi.png"
+    }
+  ]
+}
